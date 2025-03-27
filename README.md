@@ -1,9 +1,5 @@
 # Course Network Analysis
 
-This repository provides tools and analysis for understanding course networks through skill alignment, sectoral mapping, and robustness testing.
-
----
-
 ## 1. Main Analysis
 
 The notebook file consists of the following six major analytical steps:
