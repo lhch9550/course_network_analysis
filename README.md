@@ -29,13 +29,12 @@ Performs a sensitivity analysis by comparing course influence rankings and netwo
 - `S_fig_5_b.png`: Spearman correlation of course influence rankings  
 - `S_fig_5_c.png`: Absolute change in ranking & structure
 
+## 2. Nework Robustness check
 
 ```bash
 python network_evaluation.py
-python sensitivity_test.py ```
+python sensitivity_test.py
 
-
-## 2. Nework Robustness check
 
 
 
