@@ -33,7 +33,7 @@ Performs a sensitivity analysis by comparing course influence rankings and netwo
 
    ```bash
    python network_evaluation.py
-   python sensitivity_test.py
+   python sensitivity_test.py ```
 
 ## 2. Course Network Analysis
 
