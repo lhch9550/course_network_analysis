@@ -64,8 +64,6 @@ Constructs a course similarity network using a binarized course-skill matrix, an
 - `course_data_{threshold}.csv`: Course-level metrics per threshold  
 - `link_density_and_giant_component_ratio.csv`: Network-level metrics per threshold
 
----
-
 ### `sensitivity_analysis.py`
 Performs a sensitivity analysis by comparing course influence rankings and network structure across thresholds, using `0.60` as the baseline.
 
