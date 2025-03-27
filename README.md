@@ -4,14 +4,14 @@
 ## 2. Nework Robustness check
 
 #### `network_evaluation.py`
-The Python file constructs a course similarity network using a binarized course-skill matrix. Computes:
+The Python file constructs a course similarity network using a binarized course-skill matrix, which computes:
 
 - Course-level metrics:
   - **Coverage** (number of relevant skills)
   - **Degree** (number of connections to other courses)
-  - **Course Influence** (coverage / degree)
+  - **Course Influence** (coverage/degree)
 
-- Network-level metrics:
+- Network metrics:
   - **Link Density**
   - **Giant Component Ratio**
 
