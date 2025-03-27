@@ -2,9 +2,8 @@
 
 ## 1. Main Analysis
 ## 2. Nework Robustness check
-### `network_evaluation.py`
 
-Constructs a course similarity network using a binarized course-skill matrix. Computes:
+`network_evaluation.py`: the python file constructs a course similarity network using a binarized course-skill matrix. Computes:
 
 - Course-level metrics:
   - **Coverage** (number of relevant skills)
@@ -20,9 +19,7 @@ Constructs a course similarity network using a binarized course-skill matrix. Co
 - `link_density_and_giant_component_ratio.csv`: Network metrics per threshold
 
 
-### `sensitivity_analysis.py`
-
-Performs a sensitivity analysis by comparing course influence rankings and network structure across different thresholds, using `0.60` as the baseline
+`sensitivity_analysis.py: python file performs a sensitivity analysis by comparing course influence rankings and network structure across different thresholds, using `0.60` as the baseline
 
 **Outputs:**
 
