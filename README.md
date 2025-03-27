@@ -9,42 +9,34 @@ This repository provides code and resources for analyzing course networks based 
 The notebook file consists of the following six major analytical steps:
 
 ### 1) Course Network Construction
-- Constructed a **monopartite course network** based on linked skills between courses.
-- Analyzed the network structure using:
-  - **Degree centrality**
-  - **K-core decomposition**
+- Constructed a monopartite course network based on linked skills between courses
+- Analyzed the network structure using including Degree centrality and K-core decomposition
 
 ### 2) Constructing a Bipartite Network and Calculating Course Specificity
-- Constructed a **bipartite course–skill network**.
-- Calculated:
-  - **Course Specificity**
-  - **Course Influence** (coverage / degree)
-- Compared **course influence and specificity across VET sectors**
+- Constructed a bipartite course–skill network
+- Calculated **Course Specificity** and **Course Influence** (coverage / degree)
+- Compared course influence and specificity across VET sectors
 
 ### 3) Calculating Transferability for Four Economies and Skill Diversity
-- Defined four future economies:
-  - Green Economy
-  - Digital Economy
-  - Fourth Industrial Revolution
-  - Care Economy
-- Calculated **transferability scores** for each course
-- Measured **Skill Diversity** per course
+- Defined four future economies(Green Economy/Digital Economy/Fourth Industrial Revolution Economy/Care Economy)
+- Calculated transferability scores for each course
+- Measured Skill Diversity per course
 
 ### 4) Integration into a Unified Course–Job Network
 - Integrated:
-  - **Course–Skill network**
-  - **Skill–Job network**
+  - Course–Skill network
+  - Skill–Job network
 - Constructed a unified **Course-Job Network** (T) for the following analyssis
 
 ### 5) Course Influence Analysis
-- Compared **Course Influence** across VET sectors
-- Built **four regression models** to identify key predictors
-- Conducted **multicollinearity analysis** using **VIF (Variance Inflation Factor)**
+- Compared Course Influence across VET sectors
+- Conducted four Ordinary Least Squares (OLS) regression models to explore how various independent variables are associated with Course Influence
+- Conducted multicollinearity test using VIF (Variance Inflation Factor)
 
 ### 6) Oversupply Course Index Analysis
-- Calculated the **Oversupply Course Index** based on course–job connections
+- Calculated the Oversupply Course Index based on course–job connections
 - Compared oversupply across VET sectors
-- Analyzed the relationship between **transferability** and **oversupply** by sector
+- Analyzed the sectorwise relationship between transferability and Oversupply Course Index
 
 ---
 
