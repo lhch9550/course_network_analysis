@@ -19,7 +19,7 @@
 - `link_density_and_giant_component_ratio.csv`: Network metrics per threshold
 
 
-`sensitivity_analysis.py: python file performs a sensitivity analysis by comparing course influence rankings and network structure across different thresholds, using `0.60` as the baseline
+`sensitivity_analysis.py': the python file performs a sensitivity analysis by comparing course influence rankings and network structure across different thresholds, using `0.60` as the baseline
 
 **Outputs:**
 
