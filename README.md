@@ -1,8 +1,3 @@
-물론입니다! 아래는 요청하신 내용을 바탕으로 깔끔하게 정리된 최종 `README.md` 파일입니다.
-
----
-
-```markdown
 # Course Network Analysis
 
 This repository provides code and resources for analyzing course networks based on course–skill relationships, sectoral mapping, and network robustness evaluation.
