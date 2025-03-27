@@ -5,11 +5,8 @@
 The notebook file consists of the following six major analytical steps:
 
 ### 1. Course Network Construction
-- Constructed a **monopartite course network** based on shared skills between courses.
-- Analyzed the network structure using:
-  - **Degree centrality**
-  - **K-core decomposition**
-  - Other structural indicators
+- Constructed a monopartite course network based on linked skills between courses.
+- Analyzed the network structure including Degree centrality and K-core decomposition
 
 ### 2. Constructing a Bipartite Network and Calculating Course Specificity
 - Built a **bipartite course-skill network**.
