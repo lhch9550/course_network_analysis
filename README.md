@@ -22,7 +22,9 @@ Constructs a course similarity network using a binarized course-skill matrix. Co
 
 ### `sensitivity_analysis.py`
 
-Performs a sensitivity analysis by comparing course influence rankings and network structure across different thresholds, using `0.60` as the baseline and generates 3 figures:
+Performs a sensitivity analysis by comparing course influence rankings and network structure across different thresholds, using `0.60` as the baseline
+
+**Outputs:**
 
 - `S_fig_5_a.png`: Relative change in network structure  
 - `S_fig_5_b.png`: Spearman correlation of course influence rankings  
