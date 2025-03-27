@@ -1,7 +1,6 @@
 # Course_network_analysis
 
-# Course Network Sensitivity Evaluation
-
+## Nework Robustness check
 ### `network_evaluation.py`
 
 Constructs a course similarity network using a binarized course-skill matrix. Computes:
