@@ -27,14 +27,14 @@ The notebook file consists of the following six major analytical steps:
   - Digital Economy
   - Fourth Industrial Revolution
   - Care Economy
-- Calculated **job transferability scores** for each course
+- Calculated **transferability scores** for each course
 - Measured **Skill Diversity** per course
 
 ### 4) Integration into a Unified Course–Job Network
 - Integrated:
   - **Course–Skill network**
   - **Skill–Job network**
-- Constructed a unified **Course–Job Transferability Network (T)**
+- Constructed a unified **Course-Job Network** (T) for the following analyssis
 
 ### 5) Course Influence Analysis
 - Compared **Course Influence** across VET sectors
