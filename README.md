@@ -4,35 +4,35 @@
 
 The notebook file consists of the following six major analytical steps:
 
-### 1. Course Network Construction
+### 1) Course Network Construction
 - Constructed a monopartite course network based on linked skills between courses.
 - Analyzed the network structure including Degree centrality and K-core decomposition
 
-### 2. Constructing a Bipartite Network and Calculating Course Specificity
+### 2) Constructing a Bipartite Network and Calculating Course Specificity
 - Constrcuted a **bipartite course-skill network**.
 - Calculated Course Specificity and Course Influence
 - Compared course influence and specificity across sectors
 
-### 3. Calculating Transferability for Four Economies and Skill Diversity
+### 3) Calculating Transferability for Four Economies and Skill Diversity
 - Defined four future economies(Green Economy/Digital Economy/Fourth Industrial Revolution/Care Economy)
 - Calculated job transferability to each economy for each course
 - Measured Skill Diversity for each course
 
-### 4. Integration into a Unified Course–Job Network (T)
+### 4) Integration into a Unified Course–Job Network
 - Integrated:
   - Course–Skill network
   - Skill–Job network
 - Constructed a unified Course–Job Transferability Network (T)
 
-### 5. Course Influence Analysis
+### 5) Course Influence Analysis
 - Compared **course influence** across sectors
 - Built **four regression models** to identify key predictors
 - Conducted **multicollinearity analysis** using **VIF (Variance Inflation Factor)**
 
-### 6. Oversupply Index Analysis
-- Calculated the **Oversupply Index** for course–job connections
-- Compared oversupply across sectors
-- Analyzed the **relationship between transferability and oversupply**
+### 6) Oversupply Course Index Analysis
+- Calculated the Oversupply Course Index based on course–job connections
+- Compared oversupply across VET sectors
+- Analyzed the relationship between transferability and oversupply for each VET sector
 
 ---
 
