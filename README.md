@@ -1,6 +1,71 @@
 # Course_network_analysis
 
 ## 1. Main Analysis
+
+The notebookfile consists of the following six major analytical steps:
+
+---
+
+### 1. Course Network Construction
+
+- Constructed a **monopartite course network** based on shared skills between courses.
+- Analyzed the network structure using:
+  - **Degree centrality**
+  - **K-core decomposition**
+  - Other structural indicators
+
+---
+
+### 2. Constructing a Bipartite Network and Calculating Course Specificity
+
+- Built a **bipartite course-skill network**.
+- Calculated:
+  - **Course Specificity** — how narrowly a course targets a skill set
+  - **Course Influence** — ratio of coverage to degree
+- Compared **influence and specificity across sectors**.
+- Conducted **correlation analysis** between specificity and influence.
+
+---
+
+### 3. Calculate Transferability Value for Four Economies and Skill Diversity
+
+- Defined **four future-oriented economies**:
+  - Green Economy
+  - Digital Economy
+  - Fourth Industrial Revolution
+  - Care Economy
+- Calculated **course-level transferability** to each economy.
+- Measured **Skill Diversity** per course.
+
+---
+
+### 4. Integration into a Unified Course–Job Network (T)
+
+- Integrated:
+  - **Course–Skill network**
+  - **Skill–Job network**
+- Constructed a **unified Course–Job transferability network (T)**.
+
+---
+
+### 5. Course Influence Analysis
+
+- Compared **Course Influence values by sector**.
+- Built **four regression models** to identify predictors of influence.
+- Performed **multicollinearity diagnosis using VIF (Variance Inflation Factor)**.
+
+---
+
+### 6. Oversupply Index Analysis
+
+- Calculated the **Oversupply Index** based on course–job connections.
+- Compared **oversupply levels across sectors**.
+- Analyzed the **correlation between transferability metrics and the oversupply index**.
+
+---
+
+
+
 ## 2. Nework Robustness check
 
 #### `network_evaluation.py`
