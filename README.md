@@ -48,7 +48,7 @@ The notebook file consists of the following six major analytical steps:
 
 ---
 
-## 2. Network Robustness Check
+## 2. Network Robustness Test
 
 ### 1) `network_evaluation.py`
 Constructs a course similarity network using a binarized course–skill matrix and computes:
@@ -65,8 +65,6 @@ Constructs a course similarity network using a binarized course–skill matrix a
 **Outputs:**
 - `course_data_{threshold}.csv`: Course-level metrics per threshold  
 - `link_density_and_giant_component_ratio.csv`: Network-level metrics per threshold
-
----
 
 ### 2) `sensitivity_analysis.py`
 Performs a sensitivity analysis by comparing course influence rankings and network structure across multiple thresholds, using `0.60` as the baseline.
