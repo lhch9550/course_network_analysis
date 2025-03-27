@@ -9,7 +9,7 @@ The notebook file consists of the following six major analytical steps:
 - Analyzed the network structure including Degree centrality and K-core decomposition
 
 ### 2. Constructing a Bipartite Network and Calculating Course Specificity
-- Built a **bipartite course-skill network**.
+- Constrcuted a **bipartite course-skill network**.
 - Calculated:
   - **Course Specificity** — how narrowly a course targets a skill set
   - **Course Influence** — ratio of coverage to degree
