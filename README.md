@@ -4,8 +4,6 @@
 
 The notebookfile consists of the following six major analytical steps:
 
----
-
 ### 1. Course Network Construction
 
 - Constructed a **monopartite course network** based on shared skills between courses.
@@ -13,8 +11,6 @@ The notebookfile consists of the following six major analytical steps:
   - **Degree centrality**
   - **K-core decomposition**
   - Other structural indicators
-
----
 
 ### 2. Constructing a Bipartite Network and Calculating Course Specificity
 
@@ -24,8 +20,6 @@ The notebookfile consists of the following six major analytical steps:
   - **Course Influence** — ratio of coverage to degree
 - Compared **influence and specificity across sectors**.
 - Conducted **correlation analysis** between specificity and influence.
-
----
 
 ### 3. Calculate Transferability Value for Four Economies and Skill Diversity
 
@@ -37,8 +31,6 @@ The notebookfile consists of the following six major analytical steps:
 - Calculated **course-level transferability** to each economy.
 - Measured **Skill Diversity** per course.
 
----
-
 ### 4. Integration into a Unified Course–Job Network (T)
 
 - Integrated:
@@ -46,15 +38,11 @@ The notebookfile consists of the following six major analytical steps:
   - **Skill–Job network**
 - Constructed a **unified Course–Job transferability network (T)**.
 
----
-
 ### 5. Course Influence Analysis
 
 - Compared **Course Influence values by sector**.
 - Built **four regression models** to identify predictors of influence.
 - Performed **multicollinearity diagnosis using VIF (Variance Inflation Factor)**.
-
----
 
 ### 6. Oversupply Index Analysis
 
@@ -63,7 +51,6 @@ The notebookfile consists of the following six major analytical steps:
 - Analyzed the **correlation between transferability metrics and the oversupply index**.
 
 ---
-
 
 
 ## 2. Nework Robustness check
