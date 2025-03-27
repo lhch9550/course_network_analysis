@@ -10,26 +10,19 @@ The notebook file consists of the following six major analytical steps:
 
 ### 2. Constructing a Bipartite Network and Calculating Course Specificity
 - Constrcuted a **bipartite course-skill network**.
-- Calculated:
-  - **Course Specificity** — how narrowly a course targets a skill set
-  - **Course Influence** — ratio of coverage to degree
-- Compared **influence and specificity across sectors**
-- Conducted **correlation analysis** between specificity and influence
+- Calculated Course Specificity and Course Influence
+- Compared course influence and specificity across sectors
 
 ### 3. Calculating Transferability for Four Economies and Skill Diversity
-- Defined four future-oriented economies:
-  - Green Economy
-  - Digital Economy
-  - Fourth Industrial Revolution
-  - Care Economy
-- Calculated **course-level transferability** to each economy
-- Measured **Skill Diversity** for each course
+- Defined four future economies(Green Economy/Digital Economy/Fourth Industrial Revolution/Care Economy)
+- Calculated job transferability to each economy for each course
+- Measured Skill Diversity for each course
 
 ### 4. Integration into a Unified Course–Job Network (T)
 - Integrated:
-  - **Course–Skill network**
-  - **Skill–Job network**
-- Constructed a unified **Course–Job Transferability Network (T)**
+  - Course–Skill network
+  - Skill–Job network
+- Constructed a unified Course–Job Transferability Network (T)
 
 ### 5. Course Influence Analysis
 - Compared **course influence** across sectors
