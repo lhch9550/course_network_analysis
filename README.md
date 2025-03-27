@@ -38,10 +38,10 @@ The notebook file consists of the following six major analytical steps:
 
 ## 2. Network Robustness Check
 
-### `network_evaluation.py`
-Constructs a course similarity network using a binarized course-skill matrix, and computes:
+### 1) `network_evaluation.py`
+The python file constructs a course similarity network using a binarized course-skill matrix, which computes:
 
-- **Course-level metrics**:
+### Course-level metrics:
   - Coverage (number of relevant skills)
   - Degree (number of connections to other courses)
   - Course Influence (coverage / degree)
